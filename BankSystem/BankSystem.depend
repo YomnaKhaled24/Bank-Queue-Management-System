@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1708633636 source:f:\banksystem\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<string>
+	<fstream>
+	<Bank.h>
+	<Customers.h>
+	<Tellers.h>
+
+1708634546 f:\banksystem\include\bank.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<queue>
+	<list>
+	<Customers.h>
+	<Tellers.h>
+
+1708630938 f:\banksystem\include\customers.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1708620957 f:\banksystem\include\tellers.h
+

@@ -1,0 +1,12 @@
+CustomerID    ArrivalTime   Priority   ServiceTime
+1             35             0           62
+2             39             0           57
+3             78             0           12
+4             80             0           50
+5             83             1           55
+6             89             0           60
+7             99             1           50
+8             102            1           59
+9             105            0           63
+
+
